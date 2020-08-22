@@ -1,5 +1,5 @@
-<img src="assets/images/name.png">
-<h1 align="center"><img src="assets/images/wave.gif" width="30px"/> Hey there! I'm Soyuj Jung Basnet. 👨‍💻</h1>
+<img src="https://raw.githubusercontent.com/basnetsoyuj/basnetsoyuj/master/assets/images/name.png">
+<h1 align="center"><img src="https://raw.githubusercontent.com/basnetsoyuj/basnetsoyuj/master/assets/images/wave.gif" width="30px"/> Hey there! I'm Soyuj Jung Basnet. 👨‍💻</h1>
 
 <h3 align="center">An Impassioned Deep Learning & Machine Learning Practitioner and Learner from Nepal.</h3>
 
@@ -25,7 +25,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=basnetsoyuj&show_icons=true&count_private=true" alt="basnetsoyuj" /></p>
 
 <p align="center">
-<a href="https://twitter.com/basnetsoyuj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="basnetsoyuj" height="30" width="30" /></a>&nbsp;
-<a href="https://linkedin.com/in/basnetsoyuj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="basnetsoyuj" height="30" width="30" /></a>&nbsp;
-<a href="https://instagram.com/basnetsoyuj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="basnetsoyuj" height="30" width="30" /></a>&nbsp;
+<a href="https://twitter.com/basnetsoyuj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="basnetsoyuj" height="25" width="25" /></a>&nbsp;
+<a href="https://linkedin.com/in/basnetsoyuj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="basnetsoyuj" height="25" width="25" /></a>&nbsp;
+<a href="https://instagram.com/basnetsoyuj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="basnetsoyuj" height="25" width="25" /></a>&nbsp;
 </p>
