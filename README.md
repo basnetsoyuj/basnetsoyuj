@@ -5,6 +5,8 @@
 
 <p align="center"><a href="https://twitter.com/basnetsoyuj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="basnetsoyuj" height="25" width="25" /></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/basnetsoyuj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="basnetsoyuj" height="25" width="25" /></a>&nbsp;&nbsp;<a href="https://instagram.com/basnetsoyuj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="basnetsoyuj" height="25" width="25" /></a>&nbsp;&nbsp;<a href="mailto:bsoyuj@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="basnetsoyuj" height="25" width="25" /></a>&nbsp;&nbsp;<a href="https://soyuj.com.np"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="basnetsoyuj" height="25" width="25" /></a></p>
 
+<hr />
+
 - 🔭 I’m currently working on a project to aid blind/low vision people using computer vision as a member of the <a href="http://www.incubate-nepal.com/" target="_blank">Incubate Nepal</a> program.
 - 💼 I’m also currently working as a Python Developer and a Senior Python and JavaScript Content Editor at <a href="https://www.programiz.com/" target="_blank">Programiz</a>.
 - 🌱 I'm fascinated by Mathematics, Computer Science, and Physics. Visit <a href="https://github.com/basnetsoyuj/learning" target="_blank">My Learning Path</a> to learn more about how I intend to get better at my craft.
